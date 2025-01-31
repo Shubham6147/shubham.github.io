@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "smpawar"
-author_profile: true
+title: "Bio"
+author_profile: flase
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Biography
 
 ## Introduction
 
@@ -24,23 +22,26 @@ My research interests lie at the intersection of geospatial technology and socio
 
 I have worked on several impactful projects in the geospatial industry, including:
 
-- **Intern at Indian Institute for Human Settlements (IIHS), Bengaluru:**
-  - Developed geospatial metadata standards
-  - Designed and implemented an online survey application
-  - Contributed to web GIS portal development
-- **India Data Cube (IDC) Project (AWS GEO Grant):**
-  - Developed a large-scale data processing platform using Open Data Cube framework
-  - Built deep learning models (CNNs) to estimate built-up areas from satellite imagery
 - **GIS Data Engineer at Vassar Labs:**
+  
+  - Specialising in building data pipelines for geospatial applications.
+
+- **GIS Data Engineer at Kawa Space:**
+  
   - Specializing in building data pipelines for geospatial applications
+
+- **Indian Institute for Human Settlements (IIHS), Bengaluru:**
+
+  - Developed a large-scale data processing platform using Open Data Cube framework as part of India Data Cube (IDC) Project (AWS GEO Grant).
+  - Built deep learning models (CNNs) to estimate built-up areas from satellite imagery.
+  - Developed geospatial metadata standards for institue level spatial data portal.
+  - Designed and implemented an online survey application using ODK.
+  - Contributed to web GIS portal development
+
 
 ## Research Focus
 
 My work revolves around utilizing remote sensing data for social good, with an emphasis on machine learning applications in urban analytics. I am deeply committed to open-source initiatives, contributing to educational blogs and community-driven projects.
-
-## Learn More
-
-For detailed information about my professional experience, academic background, and curriculum vitae, please visit the dedicated sections on this website.
 
 ---
 
