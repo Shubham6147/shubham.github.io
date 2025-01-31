@@ -14,7 +14,7 @@ name                     : &name "Shubham Pawar"
 description              : &description "personal description"
 url                      : https://sm-pawar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sm-pawar/sm-pawar.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "Shubham_Pawar_pic.jpeg"
   name             : "Shubham Pawar"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at the University of Stirling, UK"
+  bio              : "PhD Researcher at the University of Stirling"
   location         : "Stirling, UK"
   #employer         : "Red Brick University"
   #uri              : # URL
