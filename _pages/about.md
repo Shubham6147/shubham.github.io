@@ -13,31 +13,11 @@ I am a Ph.D. researcher at the University of Stirling, focusing on leveraging te
 
 ## Academic Journey
 
-My research interests lie at the intersection of geospatial technology and socioeconomic development. Over the years, I have undertaken projects that examine urban infrastructure, population distribution, and economic disparities:
-
-- **Undergraduate Research:** Conducted an impact analysis of transit-oriented development policies along a metro corridor, assessing population influx and its implications for urban infrastructure and quality of life.
-- **Master’s Research:** Investigated how household income influences residential location choices and urban morphology using agent-based modeling.
+My research interests lie at the intersection of geospatial technology and socioeconomic development. During my undergraduate studies, I conducted an impact analysis of transit-oriented development policies along a metro corridor, projecting population influx and its implications for urban infrastructure and quality of life. Building on this, my master’s research examined how household income influences residential location choices and shapes urban morphology, employing agent-based modeling to derive insights. These academic experiences have strengthened my expertise in geospatial data analysis and computational modeling, providing a strong foundation for my current research.
 
 ## Professional Experience
 
-I have worked on several impactful projects in the geospatial industry, including:
-
-- **GIS Data Engineer at Vassar Labs:**
-  
-  - Specialising in building data pipelines for geospatial applications.
-
-- **GIS Data Engineer at Kawa Space:**
-  
-  - Specializing in building data pipelines for geospatial applications
-
-- **Indian Institute for Human Settlements (IIHS), Bengaluru:**
-
-  - Developed a large-scale data processing platform using Open Data Cube framework as part of India Data Cube (IDC) Project (AWS GEO Grant).
-  - Built deep learning models (CNNs) to estimate built-up areas from satellite imagery.
-  - Developed geospatial metadata standards for institue level spatial data portal.
-  - Designed and implemented an online survey application using ODK.
-  - Contributed to web GIS portal development
-
+I have worked on several impactful projects in the geospatial industry. I began my career as an intern at the Indian Institute for Human Settlements (IIHS), Bengaluru, where I contributed to developing geospatial metadata standards, designing and deploying an online survey app, and creating web GIS portals. I was also part of the India Data Cube (IDC) project, funded through AWS GEO, where I developed a large-scale data processing platform using the Open Data Cube framework. This platform facilitated built-up area estimation from satellite imagery through deep learning models based on convolutional neural networks. In my subsequent role as a GIS Data Engineer at Kawa Space and Vassar Labs, I specialized in building data pipelines for geospatial applications, working extensively with Python, SQL, and cloud computing platforms such as AWS and Google Cloud. Additionally, I have hands-on experience with geospatial software, including QGIS, ArcGIS, and Google Earth Engine, along with machine learning frameworks such as TensorFlow and Scikit-learn. My professional experience has equipped me with the technical skills necessary to integrate spatial data analysis with machine learning techniques, bridging the gap between research and real-world applications.
 
 ## Research Focus
 
