@@ -27,8 +27,9 @@ redirect_from:
 ### **Tutor**  
 **University of Stirling, Stirling, UK**  
 *Oct 2023 – Present*  
-- update this.
-
+- Conduct tutorials and seminars to support student learning and engagement.
+- Supervise practical work, including laboratory exercises and field trips, ensuring hands-on experience.
+- Provide constructive feedback, mark assignments, and assess student performance to enhance academic growth. 
 
 ### **GIS Data Engineer, Data Science Team**  
 **Vassar Labs, Hyderabad, India**  
